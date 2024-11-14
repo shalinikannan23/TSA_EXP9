@@ -64,7 +64,7 @@ arima_model(data, 'Close', order=(5,1,0))
 ```
 ### OUTPUT:
 
-![image](https://github.com/user-attachments/assets/ae1c24e4-bc13-4e68-904b-466534c028e3)
+<img height=10% width=50% src="https://github.com/user-attachments/assets/ae1c24e4-bc13-4e68-904b-466534c028e3">
 
 
 
